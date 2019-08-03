@@ -6,8 +6,8 @@
 the src.zip and the src folder are the same, i only upload them in the case the src folder in corrupted.
 
 steps : 
-- u should before everything to instal npm and the ng CLI 
-- after that generate a new project using "ng new [project-name]
+- u should before all instal npm and the ng CLI 
+- after that , generate a new project using "ng new [project-name]
 - in the specific folder u'l find a sub folder called src , replaced with the one here
 - make sure u are in the project folder and in the prompt type 'ng serve'
 -open http://localhost:4200/ and it will open.
