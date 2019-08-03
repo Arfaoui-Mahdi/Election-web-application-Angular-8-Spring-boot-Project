@@ -3,7 +3,7 @@
 
 ---------------------Exectution-------------------------
 
-the src.zip and the src folder are the same, i only upload them in the case the src folder in corrupted.
+the src.zip and the src folder are the same, i only upload them in case the src folder in corrupted.
 
 steps : 
 - u should before all instal npm and the ng CLI 
